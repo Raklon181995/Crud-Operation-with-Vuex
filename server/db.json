@@ -1,0 +1,51 @@
+{
+  "contacts": [
+    {
+      "name": "Rakesh Lonikar",
+      "photo": "https://cdn.pixabay.com/photo/2019/03/15/10/21/fashion-4056729__480.jpg",
+      "country": "India",
+      "mobile": 9970605851,
+      "gender": "male",
+      "skills": [
+        "Vue Js",
+        "Node Js"
+      ],
+      "id": 1,
+      "skill": true
+    },
+    {
+      "name": "Mayur",
+      "photo": "https://www.shutterstock.com/image-photo/portrait-sexy-smiling-male-model-260nw-439389118.jpg",
+      "country": "India",
+      "mobile": "0987654321",
+      "gender": "male",
+      "skills": [
+        "Vue Js",
+        "React Js"
+      ],
+      "id": 2
+    },
+    {
+      "name": "Nagesh",
+      "photo": "https://images.pexels.com/photos/904124/pexels-photo-904124.jpeg?cs=srgb&dl=pexels-rahul-shah-904124.jpg&fm=jpg",
+      "country": "India",
+      "mobile": "1234567890",
+      "gender": "male",
+      "skills": [
+        "Node Js"
+      ],
+      "id": 3
+    },
+    {
+      "name": "Akshata",
+      "photo": "https://thumbs.dreamstime.com/b/fashion-models-hairstyle-beauty-portrait-beautiful-woman-red-lips-makeup-long-brown-hair-fashion-models-hairstyle-beauty-143622137.jpg",
+      "country": "India",
+      "mobile": "9876543210",
+      "gender": "male",
+      "skills": [
+        "React Js"
+      ],
+      "id": 4
+    }
+  ]
+}
